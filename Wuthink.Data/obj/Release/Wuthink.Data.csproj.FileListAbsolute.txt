@@ -1,0 +1,10 @@
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\Wuthink.Data.dll.config
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\Wuthink.Data.dll
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\Wuthink.Data.pdb
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\EntityFramework.dll
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\EntityFramework.SqlServer.dll
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\EntityFramework.xml
+D:\Projects\Wuthink\Wuthink.Data\bin\Release\EntityFramework.SqlServer.xml
+D:\Projects\Wuthink\Wuthink.Data\obj\Release\Wuthink.Data.csprojResolveAssemblyReference.cache
+D:\Projects\Wuthink\Wuthink.Data\obj\Release\Wuthink.Data.dll
+D:\Projects\Wuthink\Wuthink.Data\obj\Release\Wuthink.Data.pdb
